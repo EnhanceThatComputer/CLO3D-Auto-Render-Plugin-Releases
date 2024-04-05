@@ -3,6 +3,7 @@
 ## Changelog
 
 Tested in CLO3D versions 7.2 and 7.3. 
+
 NOT tested for versions 2024.*! Results may vary!
 
 * Added ability to use *.zvrp file for rendering settings

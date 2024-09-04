@@ -1,3 +1,10 @@
+# CLO3D Auto Render v. 1.9.0 - 04 September 2024
+## Changelog
+
+* Improved stability
+* SPLIT VERSIONS: Updated to work with CLO3D 7.3 and 2024
+
+
 
 # CLO3D Auto Render v. 1.8.3 - 06 March 2024
 ## Changelog

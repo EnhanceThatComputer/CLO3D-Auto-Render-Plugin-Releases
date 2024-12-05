@@ -1,3 +1,11 @@
+# CLO3D Auto Render v. 1.9.260 - 05 December 2024
+## Changelog
+
+* Added an option to load the project with or without avatar
+  * Can render with avatar if it's not hidden
+* Prepared for the latest available CLO version/sdk (2024.1.260)
+
+
 # CLO3D Auto Render v. 1.9.0 - 04 September 2024
 ## Changelog
 
